@@ -202,7 +202,8 @@ Improved communication & presentation skills through internship sessions
 
 
 **🤝 Contributors**
-👨‍💻 [**BATTULA RAM KUMAR**] – **Project Developer**
-    **Developer LinkedIn:** www.linkedin.com/in/ram-kumar-battula-b7305629a 
-    **Developer Github:** https://github.com/ramkumarbattula1545
+👨‍💻 [**Snehanshu Saha**] – **Project Developer**
+    **Developer LinkedIn:** www.linkedin.com/in/snehanshu-saha-981583254 
+    **Developer Github:** https://github.com/Snehanshu19
 👨‍🏫 **REVATHI VENUGARI, PRADYUMNA V – Mentor & Guide**
+
